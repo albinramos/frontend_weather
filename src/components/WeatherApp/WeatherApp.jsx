@@ -14,7 +14,7 @@ import sunny_icon from '../../assets/sunny.png';
 const WeatherApp = () => {
 
     //openweathermap api key
-    let api_key = "19ad8885f90bc4592b407518f2859bf2";
+    let api_key = "";
     const [wicon,setWicon] = useState(cloud_icon);
 
     const search = async () => {
