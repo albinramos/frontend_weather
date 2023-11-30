@@ -40,14 +40,14 @@ Haz clic en el botón "Buscar" o presiona "Enter".
 
 La aplicación mostrará la siguiente información:
 
-Temperatura actual
-Descripción del clima
-Humedad
-Velocidad del viento
-Características
-Interfaz sencilla y fácil de usar.
-Datos meteorológicos detallados proporcionados por la API de OpenWeatherMap.
-Personalización de la información según la ciudad ingresada.
-Tecnologías Utilizadas
-React.js para la interfaz de usuario.
-Axios para realizar peticiones a la API de OpenWeatherMap.
+Temperatura actual<br>
+Descripción del clima<br>
+Humedad<br>
+Velocidad del viento<br>
+Características<br>
+Interfaz sencilla y fácil de usar.<br>
+Datos meteorológicos detallados proporcionados por la API de OpenWeatherMap.<br>
+Personalización de la información según la ciudad ingresada.<br>
+Tecnologías Utilizadas<br>
+React.js para la interfaz de usuario.<br>
+
